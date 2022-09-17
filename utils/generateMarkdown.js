@@ -79,8 +79,9 @@ ${data.tests}
 ## Questions
 
 I would love to hear from you with feedback, please feel free to email me!  Take a look at my GitHub profile as well.
-[Email: ](${data.email})
-[GitHub: ](${data.github})
+
+[Email me here.](mailto:${data.email})<br>
+[My GitHub portfolio.](https//github.com/${data.github})
 `;
 }
 

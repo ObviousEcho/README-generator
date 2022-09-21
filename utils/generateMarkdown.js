@@ -42,6 +42,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 ${renderLicenseBadge(data.license)}
+
+![video of application being used](./images/read.gif)
   
 ## Description
 

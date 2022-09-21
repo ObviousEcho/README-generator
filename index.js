@@ -20,7 +20,7 @@ const questions = [
   {
     type: "input",
     name: "installation",
-    message: "Enter destructions for how to install your Node project:",
+    message: "Enter Instructions for how to install your Node project:",
   },
 
   {
